@@ -8,5 +8,5 @@ echo "deb https://packages.adoptium.net/artifactory/deb $(awk -F= '/^VERSION_COD
 apt update
 apt install temurin-11-jdk
 echo ----------------------------------------------------------------------------
-echo JDK 8 KURULMUSTUR
+echo JDK 11 KURULMUSTUR
 echo ----------------------------------------------------------------------------
